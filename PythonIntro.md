@@ -17,7 +17,7 @@ How to Install Python in your system?
 
 There are two versions of Python 
 
-                                 - Python 2 (Not supported anymore. Default version available in MacOS)
+                                 - Python 2 (Not supported anymore. Available as default version in MacOS)
                                  
                                  - Python 3 (Latest version. Recommended to most of the users.)
                                  
