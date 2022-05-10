@@ -4,11 +4,14 @@
 Why Python?
 
 -It works on multiple different platforms.
+
 -You can write programs with fewer lines of code than other languages.
+
 -Python’s syntax is simple and mimics English, making it beginner friendly.
+
 -Python is used for Web development, Software development, Desktop applications, Database access etc..
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Install Python in your system?
 
