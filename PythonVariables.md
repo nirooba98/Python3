@@ -2,7 +2,7 @@
 
 Python variables are simply containers that store basically any type of value that we assign to it. For example,
 
-				                                     var = “python”
+					      var = “python”
 
 is a valid python variable. The variable type in the above example is a string.
 
