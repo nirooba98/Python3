@@ -2,5 +2,7 @@
 Learning Python!!
 Check out PythonIntro to know about python installation and set-up.
 
-All about Python variables!! 😃<\n>
+All about Python variables!! 😃
+
+
 Python string basics!!
