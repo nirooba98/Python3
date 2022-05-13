@@ -1,4 +1,4 @@
-from math import *
+from math import *        # you need to import this line to perform certain math functions
 
 """
 'math' is a built-in module in python. It lets you perform wide range of
