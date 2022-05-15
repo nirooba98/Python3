@@ -1,6 +1,6 @@
 print("you can get input from user in python by using the input function")
 print("Please enter your name:")
-name = input()           # the value entered by the user can be stored in a variable
+name = input()                       # the value entered by the user can be stored in a variable
 print("Welcome " + name + "!")       # and can be used in a print statement
 
 
