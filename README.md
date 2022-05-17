@@ -8,3 +8,6 @@ All about Python variables!! 😃
 Python string basics!!
 
 All about numbers in Python today 🔢
+
+
+Check out Python lists 🧾
