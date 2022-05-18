@@ -2,7 +2,7 @@
                                                             
 
 
-A list is a built-in data structure in python. You can store multiple values of the same data type inside a single variable using lists.
+A list is a built-in data structure in python. You can store multiple values inside a single variable using lists.
 
 
                                         fruit = [“Apple”, “Pineapple”, “Orange”, “Strawberry”]	
