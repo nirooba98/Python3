@@ -19,7 +19,7 @@ Note in the example, the print statement is indented and is a part of the functi
 indented and is not considered to be a part of the function.
   
 
-                                                              Passing arguments
+                                                            Passing arguments
 
 Function also takes values which are referred to as ‘parameters’ or ‘arguments’.
 We can pass any type of value (string, integer, boolean, etc..) and any number of parameters in a function.
@@ -31,10 +31,11 @@ We can pass any type of value (string, integer, boolean, etc..) and any number o
 
 
                                                       welcome(“Shiva”)
+                                                      
+                                             
+-----------------------------------------------------------------------------------------------------------------------------------------------------------      
 
-
-
-                                                               Return statement
+                                                             Return statement
                                                                
 
 We can also get values from a function using the return statement. 
