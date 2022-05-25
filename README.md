@@ -11,3 +11,6 @@ All about numbers in Python today 🔢
 
 
 Check out Python lists 🧾
+
+
+if.. or if else.. ?? 🤔. Check it out at python_if.
