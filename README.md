@@ -17,3 +17,6 @@ if.. or if else.. ?? 🤔. Check it out at python_if.
 
 
 Basics of dictionaries in Python @Python_Dictionary 📖
+
+
+check out the basics of while loop
