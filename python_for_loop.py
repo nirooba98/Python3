@@ -1,7 +1,7 @@
 
 """
 Syntax:
-for variable in sequence:
+for variable in sequence:           'for' and 'in' are keywords
     print("instructions")
 """
 
