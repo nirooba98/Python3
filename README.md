@@ -22,3 +22,6 @@ Basics of dictionaries in Python @Python_Dictionary 📖
 check out the basics of while loop
 
 check out the new word guessing game !!
+
+
+Basics of For loops in Python!!
