@@ -25,3 +25,6 @@ check out the new word guessing game !!
 
 
 Basics of For loops in Python!!
+
+
+Check out the 2D list in Python! 
