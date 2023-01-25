@@ -1,5 +1,5 @@
 """
-A dictionary collection of data in which the data value are stores as Key: Value pairs.
+A dictionary is a collection of data in which the data value are stored as Key: Value pairs.
 A dictionary can contain many number of data values each of which is separated by a comma.
 There are no duplicate values allowed in a dictionary. i.e. Each key is different and unique.
 """
